@@ -1,6 +1,6 @@
 <?php
 
-namespace LittleAraaCute\OnlyProxyJoin;
+namespace SafiraaCute\OnlyProxyJoin;
 
 use pocketmine\Server;
 use pocketmine\player\Player;
